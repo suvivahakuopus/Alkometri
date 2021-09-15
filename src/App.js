@@ -27,7 +27,7 @@ function App () {
 
   return (
     <div id='container'>
-      <h3>Calculating alcohol blood levelllll</h3>
+      <h3>Calculating alcohol blood level</h3>
       <form onSubmit={calculate}>
         <div>
           <label>Weight</label>
